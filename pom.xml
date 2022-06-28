@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://34.201.119.133:8081/repository/grapefruit_release/</url>
+	      <url>http://172.31.18.68:8081/repository/onions_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://34.201.119.133:8081/repository/grapefruit_snapshot/</url>
+	      <url>http://172.31.18.68:8081/repository/onions_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
