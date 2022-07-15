@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://54.205.198.46:8081/repository/onions_release/</url>
+	      <url>http://http://54.205.198.46:3500/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://54.205.198.46:8081/repository/onions_snapshot/</url>
+	      <url>http://http://54.205.198.46:3500/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
